@@ -2,7 +2,7 @@
 
 ## What is HTML
 
-<head></head> element is not visible on the website, it is visible as the name of the browser in a tab. 
+**<head></head>** element is not visible on the website, it is visible as the name of the browser in a tab.
 What matters for us is what you put into the body <body></body>
 
 <span> element is when you don’t want to start a new paragraph or a new line
